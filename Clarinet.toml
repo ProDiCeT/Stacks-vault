@@ -2,16 +2,16 @@
 name = "Stacks-vault"
 version = "1.0.0"
 description = "Lock STX and mint proof NFT on Stacks Layer 2 Bitcoin"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["dnapog"]
 telemetry = false
 cache_dir = ".cache"
 requirements = []
 boot_contracts = []
 
-[contracts.time-vault-nft]
+[contracts.Stacks-vault]
 path = "contracts/Stacks-vault.clar"
-clarity_version = 3
-epoch = 3.0
+clarity_version = 4
+epoch = 4.0
 
 [repl.analysis]
 passes = ["check_checker"]
