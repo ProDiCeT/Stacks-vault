@@ -9,7 +9,7 @@ requirements = []
 boot_contracts = []
 
 [contracts.Stacks-vault]
-path = "contracts/Stacks-vault.clar"
+path = "Stacks-vault.clar"
 clarity_version = 4
 epoch = 4.0
 
