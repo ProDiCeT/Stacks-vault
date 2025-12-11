@@ -1,2 +1,2 @@
 # Stacks-vault
-Create your own vault on Stacks L2
+Create your own vault on Stacks L2.
